@@ -1,0 +1,33 @@
+_repo: Contraband-A-Tale-of-Modern-Smugglers_67826
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spencer, Erle
+    aliases:
+    - Spencer, E. R.
+    - Spencer, Erle Rose
+    birthdate: 1897
+    deathdate: 1937
+    gutenberg_agent_id: '54479'
+    url: http://www.gutenberg.org/2009/agents/54479
+description: ''
+gutenberg_issued: '2022-04-13'
+identifiers:
+  gutenberg: '67826'
+language: en
+pgterms:marc905: 20220408144425spencer
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :Cassell and Company, Ltd.,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smuggling -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- GITenberg
+title: 'Contraband: A Tale of Modern Smugglers'
+url: http://www.gutenberg.org/ebooks/67826
